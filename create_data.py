@@ -8,7 +8,7 @@ haar_file = 'haarcascade_frontalface_default.xml'
 datasets = 'datasets'
 
 # Label for the sub-data set (your name)
-sub_data = 'Nirpraj'
+sub_data = '#YOUR_NAME#'
 
 # Create the datasets directory if it doesn't exist
 if not os.path.exists(datasets):
